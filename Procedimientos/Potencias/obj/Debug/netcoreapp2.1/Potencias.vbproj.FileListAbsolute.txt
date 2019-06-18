@@ -1,0 +1,10 @@
+C:\Users\Facu\source\repos\normal10as\pg2-s19e202-procedimientos-CardozoFacundoR\Procedimientos\Potencias\bin\Debug\netcoreapp2.1\Potencias.deps.json
+C:\Users\Facu\source\repos\normal10as\pg2-s19e202-procedimientos-CardozoFacundoR\Procedimientos\Potencias\bin\Debug\netcoreapp2.1\Potencias.runtimeconfig.json
+C:\Users\Facu\source\repos\normal10as\pg2-s19e202-procedimientos-CardozoFacundoR\Procedimientos\Potencias\bin\Debug\netcoreapp2.1\Potencias.runtimeconfig.dev.json
+C:\Users\Facu\source\repos\normal10as\pg2-s19e202-procedimientos-CardozoFacundoR\Procedimientos\Potencias\bin\Debug\netcoreapp2.1\Potencias.dll
+C:\Users\Facu\source\repos\normal10as\pg2-s19e202-procedimientos-CardozoFacundoR\Procedimientos\Potencias\bin\Debug\netcoreapp2.1\Potencias.pdb
+C:\Users\Facu\source\repos\normal10as\pg2-s19e202-procedimientos-CardozoFacundoR\Procedimientos\Potencias\obj\Debug\netcoreapp2.1\Potencias.vbproj.CoreCompileInputs.cache
+C:\Users\Facu\source\repos\normal10as\pg2-s19e202-procedimientos-CardozoFacundoR\Procedimientos\Potencias\obj\Debug\netcoreapp2.1\Potencias.AssemblyInfoInputs.cache
+C:\Users\Facu\source\repos\normal10as\pg2-s19e202-procedimientos-CardozoFacundoR\Procedimientos\Potencias\obj\Debug\netcoreapp2.1\Potencias.AssemblyInfo.vb
+C:\Users\Facu\source\repos\normal10as\pg2-s19e202-procedimientos-CardozoFacundoR\Procedimientos\Potencias\obj\Debug\netcoreapp2.1\Potencias.dll
+C:\Users\Facu\source\repos\normal10as\pg2-s19e202-procedimientos-CardozoFacundoR\Procedimientos\Potencias\obj\Debug\netcoreapp2.1\Potencias.pdb

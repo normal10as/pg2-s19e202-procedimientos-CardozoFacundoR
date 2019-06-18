@@ -1,0 +1,11 @@
+C:\Users\Facu\source\repos\normal10as\pg2-s19e202-procedimientos-CardozoFacundoR\Procedimientos\Acumuladora\bin\Debug\netcoreapp2.1\Acumuladora.deps.json
+C:\Users\Facu\source\repos\normal10as\pg2-s19e202-procedimientos-CardozoFacundoR\Procedimientos\Acumuladora\bin\Debug\netcoreapp2.1\Acumuladora.runtimeconfig.json
+C:\Users\Facu\source\repos\normal10as\pg2-s19e202-procedimientos-CardozoFacundoR\Procedimientos\Acumuladora\bin\Debug\netcoreapp2.1\Acumuladora.runtimeconfig.dev.json
+C:\Users\Facu\source\repos\normal10as\pg2-s19e202-procedimientos-CardozoFacundoR\Procedimientos\Acumuladora\bin\Debug\netcoreapp2.1\Acumuladora.dll
+C:\Users\Facu\source\repos\normal10as\pg2-s19e202-procedimientos-CardozoFacundoR\Procedimientos\Acumuladora\bin\Debug\netcoreapp2.1\Acumuladora.pdb
+C:\Users\Facu\source\repos\normal10as\pg2-s19e202-procedimientos-CardozoFacundoR\Procedimientos\Acumuladora\obj\Debug\netcoreapp2.1\Acumuladora.vbproj.CoreCompileInputs.cache
+C:\Users\Facu\source\repos\normal10as\pg2-s19e202-procedimientos-CardozoFacundoR\Procedimientos\Acumuladora\obj\Debug\netcoreapp2.1\Acumuladora.AssemblyInfoInputs.cache
+C:\Users\Facu\source\repos\normal10as\pg2-s19e202-procedimientos-CardozoFacundoR\Procedimientos\Acumuladora\obj\Debug\netcoreapp2.1\Acumuladora.AssemblyInfo.vb
+C:\Users\Facu\source\repos\normal10as\pg2-s19e202-procedimientos-CardozoFacundoR\Procedimientos\Acumuladora\obj\Debug\netcoreapp2.1\Acumuladora.dll
+C:\Users\Facu\source\repos\normal10as\pg2-s19e202-procedimientos-CardozoFacundoR\Procedimientos\Acumuladora\obj\Debug\netcoreapp2.1\Acumuladora.pdb
+C:\Users\Facu\source\repos\normal10as\pg2-s19e202-procedimientos-CardozoFacundoR\Procedimientos\Acumuladora\obj\Debug\netcoreapp2.1\Acumuladora.vbprojAssemblyReference.cache

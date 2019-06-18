@@ -1,0 +1,11 @@
+C:\Users\Facu\source\repos\normal10as\pg2-s19e202-procedimientos-CardozoFacundoR\Procedimientos\Hipotenusa\bin\Debug\netcoreapp2.1\Hipotenusa.deps.json
+C:\Users\Facu\source\repos\normal10as\pg2-s19e202-procedimientos-CardozoFacundoR\Procedimientos\Hipotenusa\bin\Debug\netcoreapp2.1\Hipotenusa.runtimeconfig.json
+C:\Users\Facu\source\repos\normal10as\pg2-s19e202-procedimientos-CardozoFacundoR\Procedimientos\Hipotenusa\bin\Debug\netcoreapp2.1\Hipotenusa.runtimeconfig.dev.json
+C:\Users\Facu\source\repos\normal10as\pg2-s19e202-procedimientos-CardozoFacundoR\Procedimientos\Hipotenusa\bin\Debug\netcoreapp2.1\Hipotenusa.dll
+C:\Users\Facu\source\repos\normal10as\pg2-s19e202-procedimientos-CardozoFacundoR\Procedimientos\Hipotenusa\bin\Debug\netcoreapp2.1\Hipotenusa.pdb
+C:\Users\Facu\source\repos\normal10as\pg2-s19e202-procedimientos-CardozoFacundoR\Procedimientos\Hipotenusa\obj\Debug\netcoreapp2.1\Hipotenusa.vbprojAssemblyReference.cache
+C:\Users\Facu\source\repos\normal10as\pg2-s19e202-procedimientos-CardozoFacundoR\Procedimientos\Hipotenusa\obj\Debug\netcoreapp2.1\Hipotenusa.vbproj.CoreCompileInputs.cache
+C:\Users\Facu\source\repos\normal10as\pg2-s19e202-procedimientos-CardozoFacundoR\Procedimientos\Hipotenusa\obj\Debug\netcoreapp2.1\Hipotenusa.AssemblyInfoInputs.cache
+C:\Users\Facu\source\repos\normal10as\pg2-s19e202-procedimientos-CardozoFacundoR\Procedimientos\Hipotenusa\obj\Debug\netcoreapp2.1\Hipotenusa.AssemblyInfo.vb
+C:\Users\Facu\source\repos\normal10as\pg2-s19e202-procedimientos-CardozoFacundoR\Procedimientos\Hipotenusa\obj\Debug\netcoreapp2.1\Hipotenusa.dll
+C:\Users\Facu\source\repos\normal10as\pg2-s19e202-procedimientos-CardozoFacundoR\Procedimientos\Hipotenusa\obj\Debug\netcoreapp2.1\Hipotenusa.pdb
